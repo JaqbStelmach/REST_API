@@ -4,7 +4,6 @@ import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import jakubstelmach.dto.BookingDto;
 import jakubstelmach.request.PostBookingRequest;
-import org.assertj.core.api.Assertions;
 import org.json.JSONObject;
 import org.junit.jupiter.api.Test;
 
