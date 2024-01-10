@@ -8,7 +8,6 @@ import jakubstelmach.dto.PatchDto;
 import jakubstelmach.request.PatchBookingRequest;
 import jakubstelmach.request.PostBookingRequest;
 import jakubstelmach.request.auth.PostAuthRequest;
-import org.assertj.core.api.Assertions;
 import org.json.JSONObject;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
